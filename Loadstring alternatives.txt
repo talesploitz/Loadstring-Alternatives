@@ -1,0 +1,29 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/CHAOS-HUB-/main/Chaos%20Hub%20-Tale.txt"))()
+
+--Chaos Hub
+
+
+
+
+--Da Hood Hub
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/Da-hood-hub--Tale/main/Da%20hood%20GUI.txt"))()
+
+
+
+
+
+
+
+--Phantom Forces Hub
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/tales-phantom-forces-gui/main/Tale%20phantom%20hub.txt"))()
+
+
+
+
+
+
+--Universal Hub
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/Universal-hub/main/Universal%20Hub.txt"))()
