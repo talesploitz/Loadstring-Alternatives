@@ -23,6 +23,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/tales-pha
 
 
 
---Universal Hub
+--Universal Hub, DISCONTINUED
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/Universal-hub/main/Universal%20Hub.txt"))()
+
+
+--blox fruits hub (alot of scripts lolol)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/blox-fruits-hub---tale/main/blox%20fruits%20hub%20by%20tale.txt"))()
