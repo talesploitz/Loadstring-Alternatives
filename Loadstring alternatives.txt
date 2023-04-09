@@ -1,5 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/CHAOS-HUB-/main/Chaos%20Hub%20-Tale.txt"))()
-
 --Chaos Hub
 
 
