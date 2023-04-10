@@ -31,3 +31,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/Universal
 --blox fruits hub (alot of scripts lolol)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/blox-fruits-hub---tale/main/blox%20fruits%20hub%20by%20tale.txt"))()
+
+--combat warriors hub released!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/talesploitz/combat-warrios-hub/main/combat%20warriors%20hub%20-%20tale.txt%22))()
+
